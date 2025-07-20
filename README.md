@@ -13,12 +13,15 @@ It displays 5 multiple-choice questions with a 10 second timer.
 ## Screenshots:
 ### Home Page
 
-<img width="384" height="786" alt="home" src="https://github.com/user-attachments/assets/d98113fe-b23a-4a49-b84b-e4a81264fc7d" />
+<img width="744" height="1600" alt="home" src="https://github.com/user-attachments/assets/0e3d667d-6040-4b2c-805f-e6db31a16e00" />
+
 
 ### Quiz Screen
 
-<img width="370" height="761" alt="quiz" src="https://github.com/user-attachments/assets/51ba3e39-c616-4c99-9e1e-df0f4201b584" />
+<img width="744" height="1600" alt="quiz" src="https://github.com/user-attachments/assets/a4266db4-db7f-422f-9019-bb696f166981" />
+
 
 ### Result Screen
 
-<img width="375" height="778" alt="result" src="https://github.com/user-attachments/assets/cfc25d23-a3cd-48b1-86b7-37cb49a20c93" />
+<img width="744" height="1600" alt="result" src="https://github.com/user-attachments/assets/ca28e79d-1f19-47e6-996c-cfcd3350b4f8" />
+
